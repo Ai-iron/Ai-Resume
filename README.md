@@ -1,26 +1,21 @@
-![Reactive Resume](https://i.imgur.com/FFc4nyZ.jpg)
+![Ai Resume]
 
-![App Version](https://img.shields.io/github/package-json/version/AmruthPillai/Reactive-Resume?label=version)
-[![Docker Pulls](https://img.shields.io/docker/pulls/amruthpillai/reactive-resume)](https://hub.docker.com/repository/docker/amruthpillai/reactive-resume)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/AmruthPillai)](https://github.com/sponsors/AmruthPillai)
-[![Crowdin](https://badges.crowdin.net/reactive-resume/localized.svg)](https://crowdin.com/project/reactive-resume)
-[![Discord](https://img.shields.io/discord/1173518977851473940?label=discord&link=https%3A%2F%2Fdiscord.gg%2FhzwkZbyvUW)](https://discord.gg/hzwkZbyvUW)
+# Ai Resume
 
-# Reactive Resume
+一个可以使用ai的简历编辑器
 
-A free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
-
-### [Go to App](https://rxresu.me/) | [Docs](https://docs.rxresu.me/)
+### [Go to App] | [Docs]
 
 ## Description
 
-Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume. With zero user tracking or advertising, your privacy is a top priority. The platform is extremely user-friendly and can be self-hosted in less than 30 seconds if you wish to own your data completely.
+它有多种语言可供选择，并具有实时编辑、数十个模板、拖放自定义以及与OpenAI集成等功能，以增强您的写作能力。
+你可以将简历的个性化链接分享给潜在雇主，跟踪其浏览量或下载量，并通过拖放部分来定制页面布局。该平台还支持各种字体选项，并提供数十个模板可供选择。是的，甚至还有一个黑暗模式，以获得更舒适的观看体验。
 
 It's available in multiple languages and comes packed with features such as real-time editing, dozens of templates, drag-and-drop customisation, and integration with OpenAI for enhancing your writing.
 
 You can share a personalised link of your resume to potential employers, track its views or downloads, and customise your page layout by dragging-and-dropping sections. The platform also supports various font options and provides dozens of templates to choose from. And yes, there's even a dark mode for a more comfortable viewing experience.
 
-Start creating your standout resume with Reactive Resume today!
+Start creating your standout resume with Ai Resume today!
 
 ## Templates
 
@@ -76,20 +71,3 @@ Start creating your standout resume with Reactive Resume today!
 - Sentry (for error tracing and performance monitoring)
 - GitHub/Google OAuth (for quickly authenticating users)
 - LinguiJS and Crowdin (for translation management and localization)
-
-## Star History
-
-<a href="https://star-history.com/#AmruthPillai/Reactive-Resume&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AmruthPillai/Reactive-Resume&type=Date" />
-  </picture>
-</a>
-
-## License
-
-Reactive Resume is packaged and distributed using the [MIT License](/LICENSE.md) which allows for commercial use, distribution, modification and private use provided that all copies of the software contain the same license and copyright.
-
-_By the community, for the community._  
-A passion project by [Amruth Pillai](https://www.amruthpillai.com/)
