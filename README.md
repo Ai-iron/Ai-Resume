@@ -1,4 +1,3 @@
-![Ai Resume]
 
 # Ai Resume
 
@@ -36,7 +35,7 @@ Start creating your standout resume with Ai Resume today!
 - **Free, forever** and open-source
 - No telemetry, user tracking or advertising
 - You can self-host the application in less then 30 seconds
-- **Available in multiple languages** ([help add/improve your language here](https://translate.rxresu.me/))
+- **Available in multiple languages**
 - Use your email address (or a throw-away address, no problem) to create an account
 - You can also sign in with your GitHub or Google account, and even set up two-factor authentication for extra security
 - Create as many resumes as you like under a single account, optimising each resume for every job application based on it’s description for a higher ATS score
